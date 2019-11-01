@@ -1,0 +1,4 @@
+first-child -> primeiro elemento
+last-child -> ultimo elemento
+nth-child(4) -> 4 elemento de uma lista, por exemplo
+nth-child(2n) -> pega elementos pares
