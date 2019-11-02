@@ -1,0 +1,16 @@
+* Para saber qual marcador usar, lembre:
+quando se mexe no estilo = usa-se classe
+Já no comportamento = usa-se identificador
+
+* Float - flutuação
+o elemento levanta e os elementos por perto ficam em volta do mesmo.
+
+* Quando usamos o float, ele afeta completamente a estrutura da página, todos os elementos abaixo dele são afetados. Por isso é necessário, após o uso, limpar o float para criar uma barreira e não deixá-lo afetar os demais elementos. Usamos desta forma a prorpiedade clear:
+Clear: valor que foi utilizado no float (por exemplo: left);
+Clear: left;
+
+* A tag <iframe> é especica para exibir conteúdos externos no nosso site. Abre uma janela no nosso site e podemos delimitar o tamanho da mesma.
+
+*Pseudo-classes e pseudo-elementos:
+Pseudo-classes -> altera o estado do elemento. Ela é inserida depois de : (dois poontos). Exemplos de pseudo-classes: hover e first-child (:hover).
+Pseudo-elementos -> Altera parte de um elemento atingido. É inserido depois de :: (dois pontos). Exemplos de pseudo-elementos: before e after (::before)
